@@ -3,12 +3,17 @@
 <p align="left">
     <img src="https://img.shields.io/github/repo-size/rjcostanzo/ecommerce-backend" />
     <img src="https://img.shields.io/github/languages/top/rjcostanzo/ecommerce-backend"  />
+    <img src="https://img.shields.io/badge/Javascript-orange" />
+    <img src="https://img.shields.io/badge/express-blue" />
+    <img src="https://img.shields.io/badge/Sequelize-green"  />
+    <img src="https://img.shields.io/badge/mySQL-yellow"  />
+    <img src="https://img.shields.io/badge/dotenv-orange" />
 </p>
 
 
 This is the backend for an E-Commerce website built using MySQL2, Express, Sequelize, and dotenv.
 
-### Installation
+### Installation and Usage
 
 1. Install necessary dependencies (`npm install; npm install mysql2; npm install express; npm install sequelize; npm install dotenv;`)
 2. Enter the MySQL shell (`mysql -u root -p`) and sourcing the schema (`source db/schema.sql; quit`).
@@ -21,3 +26,5 @@ Database Seeding and Initialization
 Routes Demonstration
 ![Routes Demonstration](./demos/routes.gif)
 
+### Questions
+[https://github.com/rjcostanzo](https://github.com/rjcostanzo)
